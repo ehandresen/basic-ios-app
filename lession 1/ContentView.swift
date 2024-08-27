@@ -5,6 +5,8 @@
 //  Created by Eirik Andresen on 27/08/2024.
 //
 
+// iPhone 16 pro
+
 import SwiftUI
 
 struct ContentView: View {
